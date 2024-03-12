@@ -12,7 +12,7 @@ Getting Started
 Clone this repository to your local machine.
 Install Node.js and npm (or yarn) if you haven't already.
 Open a terminal in the project directory and run npm install (or yarn install) to install the required dependencies.
-Run the game using node index.js.
+Run the game using node game.js.
 How to Play
 
 The game will prompt you to enter a deposit amount.
